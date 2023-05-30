@@ -1,0 +1,15 @@
+h2 ,h4, p, li{
+
+    font-family: "Gill Sans", sans-serif;
+} 
+h4 p{
+    color: rgb(15, 124, 212);
+}
+h4{
+    color: rgb(12, 182, 125);
+}
+#price{
+    font-style: initial;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+}
