@@ -13,3 +13,11 @@ h4{
     font-size: 23px;
     font-family: 'Times New Roman', Times, serif;
 }
+.btn{
+    font-weight: bold;
+    color: rgb(15, 124, 212) ;
+    background-color: rgb(12, 182, 125) ;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+}
